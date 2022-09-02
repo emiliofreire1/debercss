@@ -1,0 +1,127 @@
+body{
+    margin: 0;
+    background-color: #fcfcfc;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.menu{
+    position: fixed;
+    width: 100%;
+}
+
+.cabecera{
+    background-color:#694003;
+    position: relative;
+    padding-top: 10px;
+    font-size: 2rem;
+}
+.foto-perfil{
+    margin-top: 20px;
+    width: 200px;
+}
+
+h1{
+    color: rgb(90, 41, 1);
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(202, 125, 8);
+    font-weight: bold;
+    margin-top: 0px;
+    padding-top: 20px;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(75, 24, 1);
+    font-size: 20px;
+    font-weight: bold;
+}
+.nombre{
+    font-family: 'Sacramento', cursive;
+    color: rgb(58, 26, 0);
+    margin-top: 0;
+    color: #ffffff;
+    font-size: 80px;
+}
+
+.cargo{
+    margin-top: 0;
+    color: #A47E3B;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.elemento{
+    margin-top: 0%;
+}
+
+.Nube1{
+    position:relative;
+    left: 20%;
+}
+
+.Nube2{
+    position: absolute;
+    left: 25%;
+}
+
+.mountain{
+    display: inline-block;
+}
+
+.habilidad1{
+    width: 25%;
+    display: inline;
+    float: left;
+    margin-right: 30px;
+}
+
+.habilidad2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.habilidades-fila{
+    width: 50%;
+    height: 250px;
+    margin: 100px auto 100px;
+}
+
+.parrafo{
+    font-family: 'Merriweather', serif;
+    text-align: justify;
+    line-height: 2em;
+
+}
+
+.link-pie-pagina{
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.pie-final{
+    margin-bottom: 20px;
+}
+
+.btn:hover{
+    color: #694003;
+}
+
+.container-inferior, .contacto{
+    background-color: #694003;
+    padding-bottom: 20px;
+}
+
+.link-pie-pagina{
+    color:rgb(151, 142, 10);
+}
+
+.parte-final{
+    color:white;
+}
